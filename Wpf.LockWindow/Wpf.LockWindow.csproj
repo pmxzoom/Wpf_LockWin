@@ -139,7 +139,6 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="icon.ico" />
-    <Resource Include="import.png" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="处理完成图片20241218110105.png" />
